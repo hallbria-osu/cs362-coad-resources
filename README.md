@@ -8,7 +8,10 @@ made available by members of Community Organizations Active in Disaster.
 
 Fork the repository:
 
+<!--
 [https://github.com/ybakos/cs362-coad-resources](https://github.com/ybakos/cs362-coad-resources)
+-->
+[https://github.com/hallbria-osu/cs362-coad-resources](https://github.com/hallbria-osu/cs362-coad-resources)
 
 And then clone it to your local development environment, eg:
 
